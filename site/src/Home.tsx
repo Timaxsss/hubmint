@@ -77,7 +77,6 @@ const NFT = styled(Paper)`
   box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22) !important;
 `;
 
-// eslint-disable-next-line
 const Des = styled(NFT)`
   text-align: left;
   padding-top: 0px;
@@ -250,12 +249,10 @@ const ShimmerTitle = styled.h1`
   }
 `;
 
-// eslint-disable-next-line
 const GoldTitle = styled.h2`
   color: var(--title-text-color);
 `;
 
-// eslint-disable-next-line
 const LogoAligner = styled.div`
   display: flex;
   align-items: center;
